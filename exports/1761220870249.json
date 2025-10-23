@@ -1,0 +1,21 @@
+{
+  "timestamp": 1761220870249,
+  "operation": {
+    "id": "settings:config:package"
+  },
+  "projectId": "eco4",
+  "files": [
+    {
+      "path": "/mnt/data/eco4/backend/package.json",
+      "type": "text",
+      "size": 1425,
+      "dependencies": true
+    },
+    {
+      "path": "/mnt/data/eco4/backend/.env",
+      "type": "text",
+      "size": 212,
+      "dependencies": false
+    }
+  ]
+}
